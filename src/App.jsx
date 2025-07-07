@@ -119,7 +119,7 @@ function App() {
       ctx.fillText('is for', width / 2, height / 2);
 
       // Add default text in neon green
-      const defaultText = "everyone";
+      const defaultText = "_____";
       ctx.fillStyle = '#CAFF94';
       ctx.fillText(`[${defaultText}]`, width / 2, height / 2 + 140);
 
