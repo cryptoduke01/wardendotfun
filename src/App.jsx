@@ -5,7 +5,7 @@ import './index.css';
 // Comprehensive vulgar words filter
 const vulgarWords = [
   // English
-  'fuck', 'penis', 'shit', 'bitch', 'ass', 'asshole', 'bastard', 'slut', 'whore', 'dick', 'cock', 'pussy',
+  'fuck', 'lmao', 'penis', 'shit', 'bitch', 'ass', 'asshole', 'bastard', 'slut', 'whore', 'dick', 'cock', 'pussy',
   'faggot', 'nigger', 'cunt', 'tits', 'boobs', 'bollocks', 'jackass', 'motherfucker', 'jerkoff', 'dildo',
   'spank', 'orgy', 'suck', 'penis', 'vagina', 'anal', 'rape', 'molest', 'bang', 'deepthroat', 'fap',
   'cum', 'jizz', 'nut', 'blowjob', 'handjob', 'porn', 'pornhub', 'nude', 'naked', 'xxx', 'sex',
