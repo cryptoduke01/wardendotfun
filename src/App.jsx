@@ -347,7 +347,7 @@ function App() {
         <div className="text-center text-sm text-gray-400">
           <p>{imageCount} {imageCount === 1 ? 'image' : 'images'} generated and counting</p>
           <p className="text-center text-sm mt-4 text-[#CAFF94] font-syne">
-            Made with ❤️ by <a href="https://x.com/cryptoduke01" className="underline text-white-500 hover:text-blue-white transition-colors duration-200" target="_blank" rel="noopener noreferrer">duke.sol</a>{" "}
+            Made with ❤️ by <a href="https://x.com/cryptoduke01" className="underline text-white-500 hover:text-blue-white transition-colors duration-200" target="_blank" rel="noopener noreferrer">duke.sol</a> X <a href="https://x.com/thekingofweb3_" className="underline text-white-500 hover:text-blue-white transition-colors duration-200" target="_blank" rel="noopener noreferrer">King Of Web3</a>
           </p>
 
         </div>
